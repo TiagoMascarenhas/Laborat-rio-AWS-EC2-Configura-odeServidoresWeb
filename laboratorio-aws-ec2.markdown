@@ -72,7 +72,8 @@ Acessei o IP público (`http://54.86.73.5`) no navegador e confirmei a mensagem 
 
    Nota: Usei o ID da AMI correto para o Amazon Linux 2.
 
-**Captura de Tela**: ![image](https://github.com/user-attachments/assets/9c6d6498-7709-4b55-a73c-cb14aed1a921)
+**Captura de Tela**:
+![image](https://github.com/user-attachments/assets/9c6d6498-7709-4b55-a73c-cb14aed1a921)
 
 
 ### Passo 5: Encerramento das Instâncias
