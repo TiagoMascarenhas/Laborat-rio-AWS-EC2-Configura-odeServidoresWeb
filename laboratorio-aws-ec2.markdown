@@ -84,9 +84,7 @@ Para evitar cobranças, encerrei a instância com ID `i-0d36d8dc45648f9b2` e exc
 
 ## Desafios e Soluções
 
-- **Erros de Digitação nas Instruções**: O documento original continha erros (ex.: “yum: y installit” em vez de “yum install -y”). Corrigi os comandos com base no meu conhecimento de Linux e documentação da AWS.
 - **Erro de Credenciais**: Enfrentei um erro de "credenciais inválidas" ao fazer login. Resolvi saindo e autenticando novamente com as credenciais fornecidas.
-- **Comandos Incompletos no CloudShell**: O comando para obter o ID da AMI estava incompleto. Pesquisei e usei `aws ssm get-parameters-by-path` para encontrar o ID correto.
 
 ## Resultados
 
